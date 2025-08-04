@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web dev, Dsa, Dot .Net , C++, Python**
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Harsh_Pathak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-pathak310a/) or **amitverma05092006@gmail.com**
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Harsh_Pathak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-pathak310a/) or **harshpathakup091@gmail.com**
 
 - ⚡ Fun fact **I use tabs over spaces**
 
